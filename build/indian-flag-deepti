@@ -1,0 +1,49 @@
+
+<HTML>
+    <HEAD>
+    <TITLE> Indian Flag </TITLE>
+    </HEAD>
+    <BODY BACKGROUND = "https://static.officeholidays.com/images/1280x853c/india-flag-01.jpg">
+    <FONT SIZE = 96 COLOR = WHITE> <MARQUEE> The meaning of Indian flag </MARQUEE> </FONT> 
+    <a href = https://www.youtube.com/watch?v=biQH6sh_tXo> <img src = "https://static.vecteezy.com/system/resources/previews/002/047/708/non_2x/indian-flag-concept-background-free-vector.jpg" width = 200
+    hieght = 200
+    ALIGN="RIGHT"/>
+    </a>
+    <br>
+    <br>
+    <br>
+    
+    
+    <H1> <font color = green> Meaning of the three colours in the Indian Flag </h1>
+    
+    <h3> <DL> Meaning of saffron colour
+    <DD> Saffron, the first band in the Indian flag represents strength and courage of the country. </DD>
+    </DL>
+    
+    <DL> <font color = green> Meaning of white colour
+    <DD> White, the band in the middle of the Indian flag represents peace and truth. It holds the ashok chakra in the middle. </DD>
+    </DL>
+    
+    <DL> <font color = green> Meaning of green colour 
+    <DD> Green, the last band in the Indian flag represents growth, fertility and auspiciousness of our nation. </DD>
+    </DL>
+    </font>
+    </h3>
+      <br>
+    <br>
+    <h1> <font color = red>  Ashok Chakra </h1>
+    
+    <h3> Ashok chakra, also known as the dharma chakra has 24 spokes. To learn more about the ashoka chakra,
+    <a href="https://www.youtube.com/watch?v=Mi6wB10l4Qs"> click here </a> </font>
+    <BR>
+    
+    <h1> <font color = black> <marquee> Deepti Kannan </marquee> </font> </h1>
+    
+    <center>
+        <h2><font color = black>The Tricoloured Flag: A Poem by Deepti Kannan</font></h2>
+        <audio controls>
+            <source src = "tricolor-flag.mp3" type = "audio/mpeg"> 
+        </audio>
+        </center>
+    </BODY>
+    </HTML>
